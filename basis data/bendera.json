@@ -1,0 +1,1161 @@
+[
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/240px-Flag_of_Afghanistan.svg.png",
+    "negara":"afganistan",
+    "ibu_kota":"kabul",
+    "lagu_kebangsaan":"milli surood"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/240px-Flag_of_South_Africa.svg.png",
+    "negara":"afrika selatan",
+    "ibu_kota":"cape town",
+    "lagu_kebangsaan":"nkosi sikelel' iafrika"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/240px-Flag_of_the_Central_African_Republic.svg.png",
+    "negara":"afrika tengah",
+    "ibu_kota":"bangui",
+    "lagu_kebangsaan":"la renaissance"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/240px-Flag_of_Albania.svg.png",
+    "negara":"albania",
+    "ibu_kota":"tirana",
+    "lagu_kebangsaan":"himni i flamurit"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/240px-Flag_of_Algeria.svg.png",
+    "negara":"aljazair",
+    "ibu_kota":"aljir",
+    "lagu_kebangsaan":"kassaman"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/240px-Flag_of_the_United_States.svg.png",
+    "negara":"amerika serikat",
+    "ibu_kota":"washington d.c",
+    "lagu_kebangsaan":"the stars stripes forever"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/240px-Flag_of_Andorra.svg.png",
+    "negara":"andorra",
+    "ibu_kota":"adorra la vella",
+    "lagu_kebangsaan":"el gran carlemany"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/240px-Flag_of_Angola.svg.png",
+    "negara":"angola",
+    "ibu_kota":"luanda",
+    "lagu_kebangsaan":"angola avante"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/240px-Flag_of_Antigua_and_Barbuda.svg.png",
+    "negara":"antigua",
+    "ibu_kota":"saint john's",
+    "lagu_kebangsaan":"fair antigua"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/240px-Flag_of_Saudi_Arabia.svg.png",
+    "negara":"arab saudi",
+    "ibu_kota":"riyadh",
+    "lagu_kebangsaan":"an-nasid al-wartaniyy"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/240px-Flag_of_Argentina.svg.png",
+    "negara":"argentina",
+    "ibu_kota":"buenos aires",
+    "lagu_kebangsaan":"himno nacional argentino"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/240px-Flag_of_Armenia.svg.png",
+    "negara":"armenia",
+    "ibu_kota":"yerevan",
+    "lagu_kebangsaan":"mer hayrenik"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/240px-Flag_of_Australia.svg.png",
+    "negara":"australia",
+    "ibu_kota":"canberra",
+    "lagu_kebangsaan":"advance australia fair"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/240px-Flag_of_Austria.svg.png",
+    "negara":"austria",
+    "ibu_kota":"wina",
+    "lagu_kebangsaan":"land  der berge"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/240px-Flag_of_Azerbaijan.svg.png",
+    "negara":"azerbaijan",
+    "ibu_kota":"baku",
+    "lagu_kebangsaan":"azerbaycan marsi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/240px-Flag_of_the_Bahamas.svg.png",
+    "negara":"bahama",
+    "ibu_kota":"nassau",
+    "lagu_kebangsaan":"march on"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/240px-Flag_of_Bahrain.svg.png",
+    "negara":"bahrain",
+    "ibu_kota":"manama",
+    "lagu_kebangsaan":"bahrainona"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/240px-Flag_of_Bangladesh.svg.png",
+    "negara":"bangladesh",
+    "ibu_kota":"dhaka",
+    "lagu_kebangsaan":"amar shonar bangla"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/240px-Flag_of_Barbados.svg.png",
+    "negara":"barbados",
+    "ibu_kota":"bridgetown",
+    "lagu_kebangsaan":"in plenty and in time of need"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/240px-Flag_of_the_Netherlands.svg.png",
+    "negara":"belanda",
+    "ibu_kota":"amsterdam",
+    "lagu_kebangsaan":"wilhelmus"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/240px-Flag_of_Belarus.svg.png",
+    "negara":"belarus",
+    "ibu_kota":"minsk",
+    "lagu_kebangsaan":"my belarusy"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/240px-Flag_of_Belgium.svg.png",
+    "negara":"belgia",
+    "ibu_kota":"brussels",
+    "lagu_kebangsaan":"brabanconne"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/240px-Flag_of_Belize.svg.png",
+    "negara":"belize",
+    "ibu_kota":"belmopan",
+    "lagu_kebangsaan":"land of the free"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/240px-Flag_of_Benin.svg.png",
+    "negara":"benin",
+    "ibu_kota":"porto-novo",
+    "lagu_kebangsaan":"l'aube nouvelle"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/240px-Flag_of_Bhutan.svg.png",
+    "negara":"bhutan",
+    "ibu_kota":"thimphu",
+    "lagu_kebangsaan":"druk tsendhen"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/240px-Flag_of_Bolivia_%28state%29.svg.png",
+    "negara":"bolivia",
+    "ibu_kota":"sucre",
+    "lagu_kebangsaan":"himno nacional de bolivia"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/240px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "negara":"bosnia",
+    "ibu_kota":"sarajevo",
+    "lagu_kebangsaan":"drzavna himna bosne i hercegovine"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/240px-Flag_of_Botswana.svg.png",
+    "negara":"botswana",
+    "ibu_kota":"gaborone",
+    "lagu_kebangsaan":"fatshe leno la rona"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/240px-Flag_of_Brazil.svg.png",
+    "negara":"brazil",
+    "ibu_kota":"brasilia",
+    "lagu_kebangsaan":"hino nacional brasileiro"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/240px-Flag_of_the_United_Kingdom.svg.png",
+    "negara":"inggris",
+    "ibu_kota":"london",
+    "lagu_kebangsaan":"god save the queen"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/240px-Flag_of_Brunei.svg.png",
+    "negara":"brunei",
+    "ibu_kota":"bandar seri begawan",
+    "lagu_kebangsaan":"allah peliharakan sultan"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/240px-Flag_of_Bulgaria.svg.png",
+    "negara":"bulgaria",
+    "ibu_kota":"sofia",
+    "lagu_kebangsaan":"mila rodino"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/240px-Flag_of_Burkina_Faso.svg.png",
+    "negara":"burkina faso",
+    "ibu_kota":"ouagadougou",
+    "lagu_kebangsaan":"une seule nuit"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/240px-Flag_of_Burundi.svg.png",
+    "negara":"burundi",
+    "ibu_kota":"gitega",
+    "lagu_kebangsaan":"burundi bwacu"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/240px-Flag_of_the_Czech_Republic.svg.png",
+    "negara":"ceko",
+    "ibu_kota":"praha",
+    "lagu_kebangsaan":"kde domov muj"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/240px-Flag_of_Chad.svg.png",
+    "negara":"chad",
+    "ibu_kota":"n'djamena",
+    "lagu_kebangsaan":"the chadian hymn"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/240px-Flag_of_Chile.svg.png",
+    "negara":"chili",
+    "ibu_kota":"santiago",
+    "lagu_kebangsaan":"himno nacional de chile"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/240px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+    "negara":"china",
+    "ibu_kota":"beijing",
+    "lagu_kebangsaan":"march of the volunteers"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/265px-Flag_of_Denmark.svg.png",
+    "negara":"denmark",
+    "ibu_kota":"kopenhagen",
+    "lagu_kebangsaan":"der er et yndigt land"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/300px-Flag_of_Djibouti.svg.png",
+    "negara":"djibouti",
+    "ibu_kota":"djibouti city",
+    "lagu_kebangsaan":"jabuuti"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/360px-Flag_of_Dominica.svg.png",
+    "negara":"dominika",
+    "ibu_kota":"roseau",
+    "lagu_kebangsaan":"isle of beauty"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/300px-Flag_of_Ecuador.svg.png",
+    "negara":"ekuador",
+    "ibu_kota":"quito",
+    "lagu_kebangsaan":"himno nacional de ecuador"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/355p x-Flag_of_El_Salvador.svg.png",
+    "negara":"el salvador",
+    "ibu_kota":"san salvador",
+    "lagu_kebangsaan":"himno nacional de al salvador"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/360px-Flag_of_Eritrea.svg.png",
+    "negara":"eritrea",
+    "ibu_kota":"asmara",
+    "lagu_kebangsaan":"ertra"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/315px-Flag_of_Estonia.svg.png",
+    "negara":"estonia",
+    "ibu_kota":"tallinn",
+    "lagu_kebangsaan":"mu isamaa"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/360px-Flag_of_Ethiopia.svg.png",
+    "negara":"ethiopia",
+    "ibu_kota":"addis ababa",
+    "lagu_kebangsaan":"march forward"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/360px-Flag_of_Fiji.svg.png",
+    "negara":"fiji",
+    "ibu_kota":"suva",
+    "lagu_kebangsaan":"god bless fiji"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/360px-Flag_of_the_Philippines.svg.png",
+    "negara":"filipina",
+    "ibu_kota":"manila",
+    "lagu_kebangsaan":"lupang hinirang"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/328px-Flag_of_Finland.svg.png",
+    "negara":"finlandia",
+    "ibu_kota":"helsinki",
+    "lagu_kebangsaan":"maamme"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/267px-Flag_of_Gabon.svg.png",
+    "negara":"gabon",
+    "ibu_kota":"libreville",
+    "lagu_kebangsaan":"la concorde"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/300px-Flag_of_The_Gambia.svg.png",
+    "negara":"gambia",
+    "ibu_kota":"banjul",
+    "lagu_kebangsaan":"for the gambia our homeland"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/300px-Flag_of_Georgia.svg.png",
+    "negara":"georgia",
+    "ibu_kota":"tbilis",
+    "lagu_kebangsaan":"dzala ertobashia"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/300px-Flag_of_Ghana.svg.png",
+    "negara":"ghana",
+    "ibu_kota":"accra",
+    "lagu_kebangsaan":"god bless our homeland ghana"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/334px-Flag_of_Grenada.svg.png",
+    "negara":"grenada",
+    "ibu_kota":"st. george's",
+    "lagu_kebangsaan":"hail grenada"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/320px-Flag_of_Guatemala.svg.png",
+    "negara":"guatemala",
+    "ibu_kota":"guatemala city",
+    "lagu_kebangsaan":"homno nacional de guatemala"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/300px-Flag_of_Guinea.svg.png",
+    "negara":"guinea",
+    "ibu_kota":"konakry",
+    "lagu_kebangsaan":"liberte"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/360px-Flag_of_Guinea-Bissau.svg.png",
+    "negara":"guinea bissau",
+    "ibu_kota":"bissau",
+    "lagu_kebangsaan":"esta e a nossa patria bem amada"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/300px-Flag_of_Equatorial_Guinea.svg.png",
+    "negara":"guinea khatulistiwa",
+    "ibu_kota":"malabo",
+    "lagu_kebangsaan":"-"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/334px-Flag_of_Guyana.svg.png",
+    "negara":"guyana",
+    "ibu_kota":"george town",
+    "lagu_kebangsaan":"dear e a nossa patria bem amada"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/334px-Flag_of_Haiti.svg.png",
+    "negara":"haiti",
+    "ibu_kota":"port  au prince",
+    "lagu_kebangsaan":"la dessalinienne"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/360px-Flag_of_Honduras.svg.png",
+    "negara":"honduras",
+    "ibu_kota":"tegucigalpa",
+    "lagu_kebangsaan":"himno nacional de honduras"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/360px-Flag_of_Hungary.svg.png",
+    "negara":"hongaria",
+    "ibu_kota":"budapest",
+    "lagu_kebangsaan":"himnusz"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/300px-Flag_of_India.svg.png",
+    "negara":"india",
+    "ibu_kota":"new delhi",
+    "lagu_kebangsaan":"jana gana mana"
+    
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/300px-Flag_of_Indonesia.svg.png",
+    "negara":"indonesia",
+    "ibu_kota":"jakarta",
+    "lagu_kebangsaan":"indonesia raya"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/300px-Flag_of_Iraq.svg.png",
+    "negara":"irak",
+    "ibu_kota":"bagdad",
+    "lagu_kebangsaan":"mawtini"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/350px-Flag_of_Iran.svg.png",
+    "negara":"iran",
+    "ibu_kota":"teheran",
+    "lagu_kebangsaan":"soroud-e melli-e jomhouri-e eslami-e iran"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/360px-Flag_of_Ireland.svg.png",
+    "negara":"irlandia",
+    "ibu_kota":"dublin",
+    "lagu_kebangsaan":"amhran na bhfian"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/278px-Flag_of_Iceland.svg.png",
+    "negara":"islandia",
+    "ibu_kota":"reykyavik",
+    "lagu_kebangsaan":"lofsongur"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/275px-Flag_of_Israel.svg.png",
+    "negara":"israel",
+    "ibu_kota":"tel aviv",
+    "lagu_kebangsaan":"hatikvah"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/300px-Flag_of_Italy.svg.png",
+    "negara":"italia",
+    "ibu_kota":"roma",
+    "lagu_kebangsaan":"il canto degli italiani"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/360px-Flag_of_Jamaica.svg.png",
+    "negara":"jamaika",
+    "ibu_kota":"kingsstone",
+    "lagu_kebangsaan":"jamaica land we love"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/300px-Flag_of_Japan.svg.png",
+    "negara":"jepang",
+    "ibu_kota":"tokyo",
+    "lagu_kebangsaan":"kimigayo"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/334px-Flag_of_Germany.svg.png",
+    "negara":"jerman",
+    "ibu_kota":"berlin",
+    "lagu_kebangsaan":"eningkeit und recht und freiheit"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/313px-Flag_of_Cambodia.svg.png",
+    "negara":"kamboja",
+    "ibu_kota":"phnom penh",
+    "lagu_kebangsaan":"nokor reach"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/300px-Flag_of_Cameroon.svg.png",
+    "negara":"kamerun",
+    "ibu_kota":"yaonde",
+    "lagu_kebangsaan":"berceau de nos ancetres"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/360px-Flag_of_Canada.svg.png",
+    "negara":"kanada",
+    "ibu_kota":"ottawa",
+    "lagu_kebangsaan":"o canada"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/360px-Flag_of_Kazakhstan.svg.png",
+    "negara":"kazakhstan",
+    "ibu_kota":"alma ata",
+    "lagu_kebangsaan":"menin qasaqstanim"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/300px-Flag_of_Kenya.svg.png",
+    "negara":"kenya",
+    "ibu_kota":"nairobi",
+    "lagu_kebangsaan":"ee mungu nguvu yetu"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/334px-Flag_of_Kyrgyzstan.svg.png",
+    "negara":"kirgiztan",
+    "ibu_kota":"frunze",
+    "lagu_kebangsaan":"kytgyz respublikasynyn mamlekettik gimni"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/360px-Flag_of_Kiribati.svg.png",
+    "negara":"kiribati",
+    "ibu_kota":"bairiki",
+    "lagu_kebangsaan":"teirake kaini kiribati"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/300px-Flag_of_Colombia.svg.png",
+    "negara":"kolombia",
+    "ibu_kota":"bogota",
+    "lagu_kebangsaan":"nimno nacional de la republica de colombia"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/334px-Flag_of_the_Comoros.svg.png",
+    "negara":"komoro",
+    "ibu_kota":"moroni",
+    "lagu_kebangsaan":"udzima wa ya masiwa"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/267px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "negara":"kongo",
+    "ibu_kota":"kinshasa",
+    "lagu_kebangsaan":"debout congolais"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/300px-Flag_of_the_Republic_of_the_Congo.svg.png",
+    "negara":"republik kongo",
+    "ibu_kota":"brazzaville",
+    "lagu_kebangsaan":"la congolaise"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png",
+    "negara":"korea selatan",
+    "ibu_kota":"seoul",
+    "lagu_kebangsaan":"aegukga"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/360px-Flag_of_North_Korea.svg.png",
+    "negara":"korea utara",
+    "ibu_kota":"pyongyang",
+    "lagu_kebangsaan":"aegukka"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/334px-Flag_of_Costa_Rica.svg.png",
+    "negara":"kosta rika",
+    "ibu_kota":"san yose",
+    "lagu_kebangsaan":"himno nacional de costa rica"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/360px-Flag_of_Croatia.svg.png",
+    "negara":"kroasia",
+    "ibu_kota":"zagreb",
+    "lagu_kebangsaan":"lijepa nasa domovino"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/360px-Flag_of_Cuba.svg.png",
+    "negara":"kuba",
+    "ibu_kota":"havana",
+    "lagu_kebangsaan":"el himno de bayamo"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/360px-Flag_of_Kuwait.svg.png",
+    "negara":"kuwait",
+    "ibu_kota":"kuwait city",
+    "lagu_kebangsaan":"al-nasheed al-watani"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/300px-Flag_of_Laos.svg.png",
+    "negara":"laos",
+    "ibu_kota":"vientiane",
+    "lagu_kebangsaan":"peng xat lao"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/360px-Flag_of_Latvia.svg.png",
+    "negara":"latvia",
+    "ibu_kota":"riga",
+    "lagu_kebangsaan":"dievs sveti latviju"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/300px-Flag_of_Lebanon.svg.png",
+    "negara":"lebanon",
+    "ibu_kota":"beirut",
+    "lagu_kebangsaan":"himno nacional lebanon"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/300px-Flag_of_Lesotho.svg.png",
+    "negara":"lesotho",
+    "ibu_kota":"maseru",
+    "lagu_kebangsaan":"lesotho fatse la bontata rona"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/360px-Flag_of_Liberia.svg.png",
+    "negara":"liberia",
+    "ibu_kota":"monrovia",
+    "lagu_kebangsaan":"all hail liberia hail"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/360px-Flag_of_Libya.svg.png",
+    "negara":"libya",
+    "ibu_kota":"tripoli",
+    "lagu_kebangsaan":"libya libya libya"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/334px-Flag_of_Liechtenstein.svg.png",
+    "negara":"liechtenstein",
+    "ibu_kota":"vadus",
+    "lagu_kebangsaan":"oben am jungen rhein"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/334px-Flag_of_Lithuania.svg.png",
+    "negara":"lituania",
+    "ibu_kota":"vilna",
+    "lagu_kebangsaan":"tautiska giesme"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/334px-Flag_of_Luxembourg.svg.png",
+    "negara":"luksemburg",
+    "ibu_kota":"loxembourg city",
+    "lagu_kebangsaan":"ons heemecht"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/300px-Flag_of_Madagascar.svg.png",
+    "negara":"madagaskar",
+    "ibu_kota":"antananarivo",
+    "lagu_kebangsaan":"ry tanindrazanay malala oi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/360px-Flag_of_North_Macedonia.svg.png",
+    "negara":"makedonia",
+    "ibu_kota":"skopje",
+    "lagu_kebangsaan":"denes nad makedonija"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/300px-Flag_of_Maldives.svg.png",
+    "negara":"maladewa",
+    "ibu_kota":"male",
+    "lagu_kebangsaan":"qaumii salaam"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/300px-Flag_of_Malawi.svg.png",
+    "negara":"malawi",
+    "ibu_kota":"lilongwe",
+    "lagu_kebangsaan":"mulungu dalitsa  malawi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/360px-Flag_of_Malaysia.svg.png",
+    "negara":"malaysia",
+    "ibu_kota":"kuala lumpur",
+    "lagu_kebangsaan":"negaraku"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/300px-Flag_of_Mali.svg.png",
+    "negara":"mali",
+    "ibu_kota":"bamako",
+    "lagu_kebangsaan":"pour i'afrique et pour toi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/300px-Flag_of_Malta.svg.png",
+    "negara":"malta",
+    "ibu_kota":"la valetta",
+    "lagu_kebangsaan":"l-innu malti"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/300px-Flag_of_Morocco.svg.png",
+    "negara":"maroko",
+    "ibu_kota":"rabat",
+    "lagu_kebangsaan":"hymne cherifien"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/360px-Flag_of_the_Marshall_Islands.svg.png",
+    "negara":"marshall island",
+    "ibu_kota":"majuro",
+    "lagu_kebangsaan":"forever marshall islands"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/300px-Flag_of_Mauritania.svg.png",
+    "negara":"mauritania",
+    "ibu_kota":"nouakchott",
+    "lagu_kebangsaan":"-"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/300px-Flag_of_Mauritius.svg.png",
+    "negara":"mauritius",
+    "ibu_kota":"port luis",
+    "lagu_kebangsaan":"motherland"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/350px-Flag_of_Mexico.svg.png",
+    "negara":"meksiko",
+    "ibu_kota":"mexico city",
+    "lagu_kebangsaan":"himno nacional mexicano"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/300px-Flag_of_Egypt.svg.png",
+    "negara":"mesir",
+    "ibu_kota":"kairo",
+    "lagu_kebangsaan":"biladi diladi biladi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/360px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+    "negara":"federasi mikronesia",
+    "ibu_kota":"palikir",
+    "lagu_kebangsaan":"patriots of micronesia"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/360px-Flag_of_Moldova.svg.png",
+    "negara":"moldova",
+    "ibu_kota":"kishinev",
+    "lagu_kebangsaan":"limba noastra"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/250px-Flag_of_Monaco.svg.png",
+    "negara":"monako",
+    "ibu_kota":"monako",
+    "lagu_kebangsaan":"hymne monegasque"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/360px-Flag_of_Mongolia.svg.png",
+    "negara":"mongolia",
+    "ibu_kota":"ulan bator",
+    "lagu_kebangsaan":"mongol ulsiin toriin duulai"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/360px-Flag_of_Montenegro.svg.png",
+    "negara":"montenegro",
+    "ibu_kota":"podgorica",
+    "lagu_kebangsaan":"svijetla majska zoro"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/300px-Flag_of_Mozambique.svg.png",
+    "negara":"mozambik",
+    "ibu_kota":"maputo",
+    "lagu_kebangsaan":"patria amada"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/300px-Flag_of_Myanmar.svg.png",
+    "negara":"myanmar",
+    "ibu_kota":"naypyidaw",
+    "lagu_kebangsaan":"kaba ma kyei"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/300px-Flag_of_Namibia.svg.png",
+    "negara":"namibia",
+    "ibu_kota":"windhoek",
+    "lagu_kebangsaan":"land of the brave"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/360px-Flag_of_Nauru.svg.png",
+    "negara":"nauru",
+    "ibu_kota":"yaren",
+    "lagu_kebangsaan":"naur bwiema"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/164px-Flag_of_Nepal.svg.png",
+    "negara":"nepal",
+    "ibu_kota":"kathmandu",
+    "lagu_kebangsaan":"sayaun thunga phool"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/233px-Flag_of_Niger.svg.png",
+    "negara":"niger",
+    "ibu_kota":"niamey",
+    "lagu_kebangsaan":"la nigerienne"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/360px-Flag_of_Nigeria.svg.png",
+    "negara":"nigeria",
+    "ibu_kota":"lagos",
+    "lagu_kebangsaan":"o compatriots"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/334px-Flag_of_Nicaragua.svg.png",
+    "negara":"nikaragua",
+    "ibu_kota":"managua",
+    "lagu_kebangsaan":"salve a ti"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/275px-Flag_of_Norway.svg.png",
+    "negara":"norwegia",
+    "ibu_kota":"oslo",
+    "lagu_kebangsaan":"vi elsker dette landet"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/360px-Flag_of_Oman.svg.png",
+    "negara":"oman",
+    "ibu_kota":"muskat",
+    "lagu_kebangsaan":"nashid as-salaam as-sultani"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/300px-Flag_of_Pakistan.svg.png",
+    "negara":"pakistan",
+    "ibu_kota":"islamabad",
+    "lagu_kebangsaan":"qaumi tarana"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/320px-Flag_of_Palau.svg.png",
+    "negara":"palau",
+    "ibu_kota":"melekeok",
+    "lagu_kebangsaan":"belau rekid"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/360px-Flag_of_Palestine.svg.png",
+    "negara":"palestina",
+    "ibu_kota":"yerusalem",
+    "lagu_kebangsaan":"fida'i"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/300px-Flag_of_Panama.svg.png",
+    "negara":"panama", 
+    "ibu_kota":"panama",
+    "lagu_kebangsaan":"himno istmeno"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/300px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "negara":"pantai gading",
+    "ibu_kota":"yamoussoukro",
+    "lagu_kebangsaan":"l'abidjanaise"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/267px-Flag_of_Papua_New_Guinea.svg.png",
+    "negara":"papua nugini",
+    "ibu_kota":"port moresby",
+    "lagu_kebangsaan":"o arise"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/360px-Flag_of_Paraguay.svg.png",
+    "negara":"paraguay",
+    "ibu_kota":"asuncion",
+    "lagu_kebangsaan":"republica o muerte"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/300px-Flag_of_France.svg.png",
+    "negara":"perancis",
+    "ibu_kota":"paris",
+    "lagu_kebangsaan":"la marseillaise"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/300px-Flag_of_Peru_%28state%29.svg.png",
+    "negara":"peru",
+    "ibu_kota":"lima",
+    "lagu_kebangsaan":"himno nacional del peru"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/320px-Flag_of_Poland.svg.png",
+    "negara":"polandia",
+    "ibu_kota":"warsawa",
+    "lagu_kebangsaan":"mazurek dabrowskiego"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/300px-Flag_of_Portugal.svg.png",
+    "negara":"portugal",
+    "ibu_kota":"lisboa",
+    "lagu_kebangsaan":"a portuguesa"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/360px-Flag_of_Qatar.svg.png",
+    "negara":"qatar",
+    "ibu_kota":"doha",
+    "lagu_kebangsaan":"as salam al amiri"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/300px-Flag_of_Romania.svg.png",
+    "negara":"rumania",
+    "ibu_kota":"bukares",
+    "lagu_kebangsaan":"desteapta-te"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/300px-Flag_of_Russia.svg.png",
+    "negara":"rusia",
+    "ibu_kota":"moskow",
+    "lagu_kebangsaan":"gosudarstvenny gimn rossiyskov federatsii"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/300px-Flag_of_Rwanda.svg.png",
+    "negara":"rwanda",
+    "ibu_kota":"kigali",
+    "lagu_kebangsaan":"rwanda  nziza"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/300px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+    "negara":"saint kitts",
+    "ibu_kota":"basseterre",
+    "lagu_kebangsaan":"o land of beauty"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/360px-Flag_of_Saint_Lucia.svg.png",
+    "negara":"saint lucia",
+    "ibu_kota":"castries",
+    "lagu_kebangsaan":"sons and daughters of saint lucia"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/300px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+    "negara":"saint vincent",
+    "ibu_kota":"kingstown",
+    "lagu_kebangsaan":"saint vincent"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/360px-Flag_of_Samoa.svg.png",
+    "negara":"samoa",
+    "ibu_kota":"apia",
+    "lagu_kebangsaan":"the banner of freedom"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/267px-Flag_of_San_Marino.svg.png",
+    "negara":"san marino",
+    "ibu_kota":"san marino",
+    "lagu_kebangsaan":"libertas"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/360px-Flag_of_Sao_Tome_and_Principe.svg.png",
+    "negara":"sao tome",
+    "ibu_kota":"sao tome",
+    "lagu_kebangsaan":"independencia total"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/360px-Flag_of_New_Zealand.svg.png",
+    "negara":"selandia baru",
+    "ibu_kota":"wellington",
+    "lagu_kebangsaan":"god defend new zealand"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/300px-Flag_of_Senegal.svg.png",
+    "negara":"senegal",
+    "ibu_kota":"dakar",
+    "lagu_kebangsaan":"pincez tous vos koras"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/300px-Flag_of_Serbia.svg.png",
+    "negara":"serbia",
+    "ibu_kota":"beograd",
+    "lagu_kebangsaan":"boze pravde"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/360px-Flag_of_Seychelles.svg.png",
+    "negara":"seychelles",
+    "ibu_kota":"victoria",
+    "lagu_kebangsaan":"kosta seywa"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/300px-Flag_of_Sierra_Leone.svg.png",
+    "negara":"sierra leone",
+    "ibu_kota":"freetown",
+    "lagu_kebangsaan":"high we exalt thee"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/300px-Flag_of_Singapore.svg.png",
+    "negara":"singapura",
+    "ibu_kota":"singapura",
+    "lagu_kebangsaan":"majulah singapura"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/300px-Flag_of_Cyprus.svg.png",
+    "negara":"siprus",
+    "ibu_kota":"nikosia",
+    "lagu_kebangsaan":"ymnos is tin eleftherian"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/360px-Flag_of_Slovenia.svg.png",
+    "negara":"slovenia",
+    "ibu_kota":"ljubljana",
+    "lagu_kebangsaan":"adravljica"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/301px-Flag_of_Slovakia.svg.png",
+    "negara":"slovakia",
+    "ibu_kota":"bratislava",
+    "lagu_kebangsaan":"nad tatrou sa blyska"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/360px-Flag_of_the_Solomon_Islands.svg.png",
+    "negara":"salomo",
+    "ibu_kota":"honiara",
+    "lagu_kebangsaan":"god save our solomon islands"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/300px-Flag_of_Somalia.svg.png",
+    "negara":"somalia",
+    "ibu_kota":"mogadishu",
+    "lagu_kebangsaan":"qolobaa calankeed"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/300px-Flag_of_Spain.svg.png",
+    "negara":"spanyol",
+    "ibu_kota":"madrid",
+    "lagu_kebangsaan":"la marcha real"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/360px-Flag_of_Sri_Lanka.svg.png",
+    "negara":"sri lanka",
+    "ibu_kota":"kolombo",
+    "lagu_kebangsaan":"sri lanka matha"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/360px-Flag_of_Sudan.svg.png",
+    "negara":"sudan",
+    "ibu_kota":"khartoum",
+    "lagu_kebangsaan":"nahnu jund allah jundal-watan"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/300px-Flag_of_Syria.svg.png",
+    "negara":"suriah",
+    "ibu_kota":"damaskus",
+    "lagu_kebangsaan":"humat ad-diyar"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/300px-Flag_of_Suriname.svg.png",
+    "negara":"suriname",
+    "ibu_kota":"paramaribo",
+    "lagu_kebangsaan":"god zij met ons suriname"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/300px-Flag_of_Eswatini.svg.png",
+    "negara":"swazilant",
+    "ibu_kota":"mbabane",
+    "lagu_kebangsaan":"nkulunkulu mnikati wetibusiso temaswati"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/320px-Flag_of_Sweden.svg.png",
+    "negara":"swedia",
+    "ibu_kota":"stockholm",
+    "lagu_kebangsaan":"du gamla"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/200px-Flag_of_Switzerland.svg.png",
+    "negara":"swiss",
+    "ibu_kota":"bern",
+    "lagu_kebangsaan":"schweizerpsalm"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/360px-Flag_of_Tajikistan.svg.png",
+    "negara":"tajikistan",
+    "ibu_kota":"dushanble",
+    "lagu_kebangsaan":"surudi milli"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/340px-Flag_of_Cape_Verde.svg.png ",
+    "negara":"tanjung verde",
+    "ibu_kota":"praia",
+    "lagu_kebangsaan":"cantico da liberrdade"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/300px-Flag_of_Tanzania.svg.png",
+    "negara":"tanzania",
+    "ibu_kota":"dodoma",
+    "lagu_kebangsaan":"mungu ibariki afrika"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/300px-Flag_of_Thailand.svg.png",
+    "negara":"thailand",
+    "ibu_kota":"bangkok",
+    "lagu_kebangsaan":"phleng chat"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/360px-Flag_of_East_Timor.svg.png",
+    "negara":"timor leste",
+    "ibu_kota":"dili",
+    "lagu_kebangsaan":"patria"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/324px-Flag_of_Togo.svg.png",
+    "negara":"togo",
+    "ibu_kota":"lome",
+    "lagu_kebangsaan":"salut a toi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/360px-Flag_of_Tonga.svg.png",
+    "negara":"tonga",
+    "ibu_kota":"nukualofa",
+    "lagu_kebangsaan":"ko e fasi 'o e tu'i 'o e 'otu tonga"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/334px-Flag_of_Trinidad_and_Tobago.svg.png",
+    "negara":"trinidad",
+    "ibu_kota":"port of span",
+    "lagu_kebangsaan":"forged from the love of liberty"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/300px-Flag_of_Tunisia.svg.png",
+    "negara":"tunisia",
+    "ibu_kota":"tunis",
+    "lagu_kebangsaan":"humat al-hima"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/300px-Flag_of_Turkey.svg.png",
+    "negara":"turki",
+    "ibu_kota":"ankara",
+    "lagu_kebangsaan":"istiklal marsi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/300px-Flag_of_Turkmenistan.svg.png",
+    "negara":"turkmenistan",
+    "ibu_kota":"ashgabat",
+    "lagu_kebangsaan":"turkmenistany dolet gimni"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/360px-Flag_of_Tuvalu.svg.png",
+    "negara":"tuvalu",
+    "ibu_kota":"funafuti",
+    "lagu_kebangsaan":"tuvalu mo te atua"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/300px-Flag_of_Uganda.svg.png",
+    "negara":"uganda",
+    "ibu_kota":"kampala",
+    "lagu_kebangsaan":"oh uganda"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/300px-Flag_of_Ukraine.svg.png",
+    "negara":"ukraina",
+    "ibu_kota":"kiev",
+    "lagu_kebangsaan":"shche ne vmerla ukraina"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/360px-Flag_of_the_United_Arab_Emirates.svg.png",
+    "negara":"uni emirat arab",
+    "ibu_kota":"abu dhabi",
+    "lagu_kebangsaan":"ishy biladi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/300px-Flag_of_Uruguay.svg.png",
+    "negara":"uruguay",
+    "ibu_kota":"montevideo",
+    "lagu_kebangsaan":"himno nacional"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/360px-Flag_of_Uzbekistan.svg.png",
+    "negara":"uzbekistan",
+    "ibu_kota":"tashkent",
+    "lagu_kebangsaan":"o'zbekiston respublikasining davlat madhiyasi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/334px-Flag_of_Vanuatu.svg.png",
+    "negara":"vanuatu",
+    "ibu_kota":"pelabuhan vila",
+    "lagu_kebangsaan":"yumi"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/200px-Flag_of_the_Vatican_City.svg.png",
+    "negara":"vatikan",
+    "ibu_kota":"vatikan city",
+    "lagu_kebangsaan":"inno e marcia"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/300px-Flag_of_Venezuela.svg.png",
+    "negara":"venezuela",
+    "ibu_kota":"caracas",
+    "lagu_kebangsaan":"gloria al bravo pueblo"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/300px-Flag_of_Vietnam.svg.png",
+    "negara":"vietnam",
+    "ibu_kota":"hanoi",
+    "lagu_kebangsaan":"tien quan ca"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/300px-Flag_of_Yemen.svg.png",
+    "negara":"yaman",
+    "ibu_kota":"sanaa",
+    "lagu_kebangsaan":"al-jumhuriyah al-muttahidah"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/360px-Flag_of_Jordan.svg.png",
+    "negara":"yordania",
+    "ibu_kota":"amman",
+    "lagu_kebangsaan":"as-salam al-malaki al-urduni"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/300px-Flag_of_Greece.svg.png",
+    "negara":"yunani",
+    "ibu_kota":"athena",
+    "lagu_kebangsaan":"hymnos pros tin eleftherian"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/300px-Flag_of_Zambia.svg.png",
+    "negara":"zambia",
+    "ibu_kota":"lusaka",
+    "lagu_kebangsaan":"stand  and sing of zambia"
+  },
+  {
+    "bendera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/360px-Flag_of_Zimbabwe.svg.png",
+    "negara":"zimbabwe",
+    "ibu_kota":"harare",
+    "lagu_kebangsaan":"simudzai mureza wezimbabwe"
+  }
+]
