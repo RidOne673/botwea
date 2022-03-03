@@ -5122,7 +5122,8 @@ Be a smart user and good luck!`)
         if (isBanned) return
         if (!isRegistered) return reply(ind.noregis())
         ///if (isLimit(sender)) return reply(limitend(pushname2))
-        if (args.length < 1) return reply(`Ketik ${prefix + command} gambar yang dicari`)
+        reply('Fiture Disable')
+        /*if (args.length < 1) return reply(`Ketik ${prefix + command} gambar yang dicari`)
         reply(mess.wait);
 	    var google = new Scraper({
           puppeteer: {
@@ -5137,8 +5138,9 @@ Be a smart user and good luck!`)
             client.sendMessage(from, gbr, image, {quoted: mek});			
 			}, i * 3000);
 		});
-         })();
+         })();*/
 		///await limitAdd(sender)
+        
         break
 		case 'image1':
         if (isPower) return
