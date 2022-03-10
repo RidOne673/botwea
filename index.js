@@ -866,7 +866,7 @@ const levelRole = getLevelingLevel(sender)
         jawabane = caklontong[from]
         penjelasani = penjelasan[from]
         if (budy.toLowerCase() == jawabane) {
-        sim = await similarity(jawaban, budy.toLowerCase()e)
+        sim = await similarity(jawaban, budy.toLowerCase())
         if (sim < tresshold) return reply('Sedikit lagi..!')
          buttons = [
         {buttonId: `${preff}caklontong`, buttonText: {displayText: 'Cak Lontong'}, type: 1}
