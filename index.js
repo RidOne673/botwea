@@ -828,7 +828,7 @@ const levelRole = getLevelingLevel(sender)
         if (tebakgambar.hasOwnProperty(from) && !isCmd2) {
         jawaban = tebakgambar[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}tebakgambar`, buttonText: {displayText: 'Tebak Gambar'}, type: 1}
@@ -866,7 +866,7 @@ const levelRole = getLevelingLevel(sender)
         jawaban = caklontong[from]
         penjelasani = penjelasan[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
          buttons = [
         {buttonId: `${preff}caklontong`, buttonText: {displayText: 'Cak Lontong'}, type: 1}
@@ -905,7 +905,7 @@ const levelRole = getLevelingLevel(sender)
         if (math2.hasOwnProperty(from) && !isCmd2) {
         jawaban = math2[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}math`, buttonText: {displayText: 'Math'}, type: 1}
@@ -942,7 +942,7 @@ const levelRole = getLevelingLevel(sender)
         if (asah.hasOwnProperty(from) && !isCmd2) {
         jawaban = asah[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
          buttons = [
         {buttonId: `${preff}asahotak`, buttonText: {displayText: 'Asah Otak'}, type: 1}
@@ -979,7 +979,7 @@ const levelRole = getLevelingLevel(sender)
         if (siapa.hasOwnProperty(from) && !isCmd2) {
         jawaban = siapa[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}siapaaku`, buttonText: {displayText: 'Siapa Aku'}, type: 1}
@@ -1016,7 +1016,7 @@ const levelRole = getLevelingLevel(sender)
         if (susun.hasOwnProperty(from) && !isCmd2) {
         jawaban = susun[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}susunkata`, buttonText: {displayText: 'Susun Kata'}, type: 1}
@@ -1053,7 +1053,7 @@ const levelRole = getLevelingLevel(sender)
         if (tebakan.hasOwnProperty(from) && !isCmd2) {
         jawaban = tebakan[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}tebaktebakan`, buttonText: {displayText: 'Tebak-tebakan'}, type: 1}
@@ -1103,7 +1103,7 @@ const levelRole = getLevelingLevel(sender)
         if (kimia.hasOwnProperty(from) && !isCmd2) {
         jawaban = kimia[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}kimia`, buttonText: {displayText: 'Kimia'}, type: 1}
@@ -1140,7 +1140,7 @@ const levelRole = getLevelingLevel(sender)
     if (tbendera.hasOwnProperty(from) && !isCmd2) {
         jawaban = tbendera[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
          buttons = [
         {buttonId: `${preff}tebakbendera`, buttonText: {displayText: 'Tebak Bendera'}, type: 1}
@@ -1176,7 +1176,7 @@ const levelRole = getLevelingLevel(sender)
     if (tlagu.hasOwnProperty(from) && !isCmd2) {
         jawaban = tlagu[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}lagukebangsaan`, buttonText: {displayText: 'Lagu Kebangsaan'}, type: 1}
@@ -1212,7 +1212,7 @@ const levelRole = getLevelingLevel(sender)
     if (tibukota.hasOwnProperty(from) && !isCmd2) {
         jawaban = tibukota[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && sim > 1) return reply('Sedikit lagi..!')
+        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
         if (budy.toLowerCase() == jawaban) {
          buttons = [
         {buttonId: `${preff}ibukota`, buttonText: {displayText: 'Ibu Kota'}, type: 1}
