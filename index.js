@@ -828,8 +828,9 @@ const levelRole = getLevelingLevel(sender)
         if (tebakgambar.hasOwnProperty(from) && !isCmd2) {
         jawaban = tebakgambar[from]
         similar = await similarity(jawaban, budy.toLowerCase())
-        if ( similar < tresshold && similar > 1) return reply('Sedikit lagi..!')
-        if (budy.toLowerCase() == jawaban) {
+        if ( similar < tresshold && similar > 1) {
+          reply('Sedikit lagi..!')
+        } else if (budy.toLowerCase() == jawaban) {
         buttons = [
         {buttonId: `${preff}tebakgambar`, buttonText: {displayText: 'Tebak Gambar'}, type: 1}
         ]
